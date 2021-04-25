@@ -1,0 +1,17 @@
+https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs
+https://www.curseforge.com/minecraft/mc-mods/big-brain
+https://www.curseforge.com/minecraft/mc-mods/villager-tools
+https://www.curseforge.com/minecraft/mc-mods/advanced-compass
+https://www.curseforge.com/minecraft/mc-mods/illagers
+https://www.curseforge.com/minecraft/mc-mods/totemic-overhaul
+https://www.curseforge.com/minecraft/mc-mods/xl-food-mod
+https://www.curseforge.com/minecraft/mc-mods/lurker
+https://www.curseforge.com/minecraft/mc-mods/music-player [can listen to any music in game by default f8]
+https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+https://www.curseforge.com/minecraft/mc-mods/blur [compatible with shaders but needs to disable anti aliasing in shaders]
+https://www.curseforge.com/minecraft/mc-mods/jei
+https://www.curseforge.com/minecraft/mc-mods/bookshelf
+https://www.curseforge.com/minecraft/mc-mods/ctm
+https://www.curseforge.com/minecraft/mc-mods/controlling
+https://www.curseforge.com/minecraft/mc-mods/controlling
+https://www.curseforge.com/minecraft/mc-mods/netherportalfix
